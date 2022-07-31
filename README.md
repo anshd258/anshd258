@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/anshd258"><img width="80%" alt="Hello, I'm anshdeep singh. I do open source!" src="https://github.com/anshd258/profile_b/blob/master/assets/d%20(1).png" width="400" height="790" /></a></p>
+<p align="center"><a href="https://github.com/anshd258"><img width="80%" alt="Hello, I'm anshdeep singh. I do open source!" src="https://github.com/anshd258/profile_b/blob/master/assets/d%20(1).png" width="250" height="500"></p>
 
 <br />
 
