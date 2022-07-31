@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/anshd258"><img width="80%" alt="Hello, I'm anshdeep singh. I do open source!" src="https://github.com/anshd258/profile_b/blob/master/assets/d%20(1).png" width="85" height="500"/></a></p>
+<p align="center"><a href="https://github.com/anshd258"><img width="50%" alt="Hello, I'm anshdeep singh. I do open source!" src="https://github.com/anshd258/profile_b/blob/master/assets/d%20(1).png" width="85" height="500"/></a></p>
 
 <br />
 
@@ -6,13 +6,13 @@ I'm a cse student, passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼  A full stack devloper working on flutter
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 actively working with DSA, flutter and Dapps
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love listening to music, and building fun experiments on python
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/ansh-deep)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
