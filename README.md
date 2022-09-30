@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anshdeep singh
 #### I am a full stack developer working on flutter
-![I am a full stack developer working on flutter](https://raw.githubusercontent.com/anshd258/anshd258/master/daksh%20makhija.gif)
+![I am a full stack developer working on flutter](https://raw.githubusercontent.com/anshd258/anshd258/master/ANSHDEEP%20(3).gif)
 
 actively working with DSA, flutter and Dapps,
 
